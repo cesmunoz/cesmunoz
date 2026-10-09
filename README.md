@@ -12,6 +12,12 @@
 
 ---
 
+### Ahora mismo
+
+Probando flujos de agentes con pstack.
+
+---
+
 ### About Me
 
 Full-Stack Engineer with extensive experience designing, building, and scaling web applications. Strong background in cloud architectures and distributed systems, with high-level proficiency in Node.js, React, TypeScript, and AWS.
